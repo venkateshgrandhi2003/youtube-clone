@@ -1,0 +1,16 @@
+p{
+  font-family:montserrat;
+}
+.heading{
+  font-weight:bold;
+  font-size:30px;
+  text-align:center;
+  margin-bottom:10px;
+}
+.context{
+  text-align:center;
+  margin-top:0;
+}
+.underline{
+  text-decoration:underline;
+}
